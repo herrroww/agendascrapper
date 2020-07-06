@@ -1,0 +1,4 @@
+cl/ucn/disc/pdis/scrapper/Person.java
+ cl.ucn.disc.pdis.scrapper.Person
+cl/ucn/disc/pdis/scrapper/Agenda.java
+ cl.ucn.disc.pdis.scrapper.Agenda
